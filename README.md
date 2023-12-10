@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrisQuiBo
-- 👀 I’m interested in finding work as a junior web developer/designer
-- 🌱 I’m currently trying to elevate javascript skills, learn React, also exploring SQL.
+- 👀 I want to find junior web developer work. 
+- 🌱 Honing in on javascript skills, React, also exploring SQL. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kristen@krisquibo.com
 
